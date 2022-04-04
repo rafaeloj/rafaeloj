@@ -1,7 +1,6 @@
 ### Hello, everything quiet? I'm Rafael Jarczewski! 👋
 - Computer Science student at Federal University of Pampa (UNIPAMPA)
-- 🌱 I’m currently learning Python and Flutter
-- ⚡ I’m currently searching for a work
+- 🌱 I’m currently learning Python, JavaScript and TypeScript
 
 <div align="center">
   <a href="https://github.com/rafaeloj">
