@@ -1,6 +1,7 @@
 ### Hello, everything quiet? I'm Rafael Jarczewski! 👋
-- Computer Scientist at the Federal University of Pampa (UNIPAMPA)
+
 - Master's student in Computer Science at the University of Campinas (Unicamp)
+- Computer Scientist at the Federal University of Pampa (UNIPAMPA)
 - 🌱 I’m currently learning Python, Federated Learning and Flower
 - Take a look in my page: https://rafaeloj.github.io/
 
