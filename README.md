@@ -1,6 +1,7 @@
 ### Hello, everything quiet? I'm Rafael Jarczewski! 👋
-- Computer Science student at Federal University of Pampa (UNIPAMPA)
-- 🌱 I’m currently learning Python, JavaScript and TypeScript
+- Computer Scientist at the Federal University of Pampa (UNIPAMPA)
+- Master's student in Computer Science at the University of Campinas (Unicamp)
+- 🌱 I’m currently learning Python, Federated Learning and Flower
 - Take a look in my page: https://rafaeloj.github.io/
 
 <div align="center">
